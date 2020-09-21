@@ -16,20 +16,14 @@ namespace asdf
       string eYCoor = Console.ReadLine();
 
       Queen queenPos = new Queen(qXCoor,qYCoor);
-      
-    }
-  }
-  public class Queen
-  {
-    public bool Stomp(string eXCoor, string eYCoor)
-    {
-      if (qYCoor == eYCoor || qXCoor == eYCoor)
+
+      if (queenPos.Stomp(eXCoor,eYCoor))
       {
-        return true;
+        Console.WriteLine("Hit");
       }
       else
       {
-        return false;
+        Console.WriteLine("No hit");
       }
     }
   }

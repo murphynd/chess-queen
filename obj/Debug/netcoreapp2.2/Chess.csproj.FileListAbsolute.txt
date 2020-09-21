@@ -1,0 +1,4 @@
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\chess\obj\Debug\netcoreapp2.2\Chess.csprojAssemblyReference.cache
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\chess\obj\Debug\netcoreapp2.2\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\chess\obj\Debug\netcoreapp2.2\Chess.AssemblyInfoInputs.cache
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\chess\obj\Debug\netcoreapp2.2\Chess.AssemblyInfo.cs
